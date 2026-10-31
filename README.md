@@ -15,7 +15,7 @@ This repository contains the documentation, environment checks, and source code 
 | :-------------------------- | :---------------------------------------------- |
 | **Mohammad Ali Najafzadeh** | [GitHub Link](https://github.com/ma-najafzadeh22/ai-lab-g2-mohammad-ali-najaf-zadeh/) |
 | **Amir Hossein Hasani**     | [GitHub Link](https://github.com/rezolens/ai-lab-g3-step1-reza-dehghani/) |
-| **Reza Dehghani**           | [GitHub Link](https://github.com/deathtoconding/ai-lab-g3-step1-hasani/) |
+| **Reza Dehghani**           | [GitHub Link](https://github.com/rezolens/ai-lab-all-step-reza-dehghani/tree/main) |
 | **Amir Hossein Noruzi**     | [GitHub Link](https://github.com/nrzAmirHo3in/ai-lab-g3-step1-amirhossein-noroozi/) |
 
 
